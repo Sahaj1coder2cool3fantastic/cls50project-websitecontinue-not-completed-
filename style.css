@@ -1,0 +1,19 @@
+h1 {
+    color : rgb(219, 88, 88);
+    background-color: grey;
+    text-align:justify;
+}
+
+body{
+    background-color:aliceblue;  
+}
+
+.menu{
+    text-align:center;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
